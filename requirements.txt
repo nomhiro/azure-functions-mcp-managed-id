@@ -1,0 +1,5 @@
+azure-functions
+requests
+types-requests
+azure-cosmos
+python-dotenv

@@ -1,0 +1,182 @@
+[
+  {
+    "userName": "山田 美穂",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "リードエンジニア"
+  },
+  {
+    "userName": "山本 里奈",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "リードエンジニア"
+  },
+  {
+    "userName": "鈴木 和葉",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "木村 翔",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "伊藤 翔",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "中村 和葉",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "オペレーション部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "鈴木 裕介",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "小林 悠斗",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "中村 里奈",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "井上 翔",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "経理部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "伊藤 花子",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "リードエンジニア"
+  },
+  {
+    "userName": "渡辺 太郎",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "主任"
+  },
+  {
+    "userName": "小林 真由美",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "品質保証部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "渡辺 愛",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "山本 拓也",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "調達部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "山口 拓也",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "データ分析室",
+    "jobTitle": "スペシャリスト"
+  },
+  {
+    "userName": "林 太郎",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "伊藤 真由美",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "鈴木 真由美",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "情報システム部",
+    "jobTitle": "主任"
+  },
+  {
+    "userName": "佐藤 亮",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "次長"
+  },
+  {
+    "userName": "斎藤 美咲",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "法務部",
+    "jobTitle": "次長"
+  },
+  {
+    "userName": "中村 啓介",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "清水 健一",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "伊藤 美咲",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "渡辺 健一",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "品質保証部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "伊藤 麻衣",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "田中 麻衣",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "マーケティング部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "井上 美咲",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "木村 美咲",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "松本 太郎",
+    "companyName": "LMS建設株式会社",
+    "departmentName": "データ分析室",
+    "jobTitle": "課長"
+  }
+]

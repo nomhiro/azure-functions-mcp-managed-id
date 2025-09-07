@@ -1,0 +1,182 @@
+[
+  {
+    "userName": "松本 夏美",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "林 悠斗",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "リードエンジニア"
+  },
+  {
+    "userName": "伊藤 花子",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "情報システム部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "清水 智也",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "情報システム部",
+    "jobTitle": "スペシャリスト"
+  },
+  {
+    "userName": "加藤 拓也",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "経理部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "山口 美咲",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "調達部",
+    "jobTitle": "スペシャリスト"
+  },
+  {
+    "userName": "高橋 花子",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "法務部",
+    "jobTitle": "スペシャリスト"
+  },
+  {
+    "userName": "佐藤 花子",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "調達部",
+    "jobTitle": "次長"
+  },
+  {
+    "userName": "山口 彩香",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "次長"
+  },
+  {
+    "userName": "木村 美穂",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "山本 彩香",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "渡辺 彩香",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "法務部",
+    "jobTitle": "スペシャリスト"
+  },
+  {
+    "userName": "山本 真由美",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "財務部",
+    "jobTitle": "次長"
+  },
+  {
+    "userName": "木村 麻衣",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "主任"
+  },
+  {
+    "userName": "高橋 真由美",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "情報システム部",
+    "jobTitle": "次長"
+  },
+  {
+    "userName": "井上 花子",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "財務部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "山口 愛",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "佐藤 彩香",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "主任"
+  },
+  {
+    "userName": "木村 亮",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "佐藤 和葉",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "マーケティング部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "清水 彩香",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "伊藤 美咲",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "小林 美穂",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "法務部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "斎藤 和葉",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "法務部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "林 拓也",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "調達部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "伊藤 悠斗",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "データ分析室",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "佐々木 亮",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "小林 夏美",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "小林 健一",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "財務部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "渡辺 智也",
+    "companyName": "XYZ工業株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "係長"
+  }
+]

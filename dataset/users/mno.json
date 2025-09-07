@@ -1,0 +1,182 @@
+[
+  {
+    "userName": "松本 真由美",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "品質保証部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "佐々木 真由美",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "渡辺 拓也",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "財務部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "山本 真由美",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "山本 悠斗",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "主任"
+  },
+  {
+    "userName": "佐藤 健一",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "井上 里奈",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "アナリスト"
+  },
+  {
+    "userName": "高橋 悠斗",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "高橋 悠斗",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "木村 翔",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "オペレーション部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "佐藤 美穂",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "オペレーション部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "吉田 啓介",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "渡辺 愛",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "マーケティング部",
+    "jobTitle": "スペシャリスト"
+  },
+  {
+    "userName": "林 啓介",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "調達部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "松本 美咲",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "オペレーション部",
+    "jobTitle": "リードエンジニア"
+  },
+  {
+    "userName": "松本 啓介",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "山口 花子",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "生産管理部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "佐々木 直樹",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "マーケティング部",
+    "jobTitle": "リードエンジニア"
+  },
+  {
+    "userName": "中村 和葉",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "データ分析室",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "清水 夏美",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "研究開発部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "山口 太郎",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "係長"
+  },
+  {
+    "userName": "田中 彩香",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "木村 美穂",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "経営企画部",
+    "jobTitle": "部長"
+  },
+  {
+    "userName": "鈴木 裕介",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "人事部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "佐々木 悠斗",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "営業部",
+    "jobTitle": "シニアスペシャリスト"
+  },
+  {
+    "userName": "渡辺 美穂",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "清水 拓也",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "調達部",
+    "jobTitle": "主任"
+  },
+  {
+    "userName": "井上 太郎",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "カスタマーサポート部",
+    "jobTitle": "一般職"
+  },
+  {
+    "userName": "小林 啓介",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "マーケティング部",
+    "jobTitle": "課長"
+  },
+  {
+    "userName": "高橋 美穂",
+    "companyName": "MNO電気株式会社",
+    "departmentName": "品質保証部",
+    "jobTitle": "部長"
+  }
+]

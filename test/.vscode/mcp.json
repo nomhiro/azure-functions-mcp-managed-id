@@ -1,0 +1,15 @@
+{
+    "servers": {
+        "course-survey": {
+            "type": "sse",
+            "url": "https://func-mcp-course-surveys.azurewebsites.net/runtime/webhooks/mcp/sse",
+            "headers": {
+                "x-functions-key": "EeVlFnCeRU3OrT2hOKgldaGw-0qwPFn08tXEDni04RYtAzFuFR4-jA=="
+            }
+        },
+        // "course-survey-local": {
+        //     "type": "sse",
+        //     "url": "http://localhost:7071/runtime/webhooks/mcp/sse"
+        // }
+    }
+}

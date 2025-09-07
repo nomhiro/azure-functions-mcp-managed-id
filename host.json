@@ -1,0 +1,25 @@
+{
+  "version": "2.0",
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      }
+    }
+  },
+  "extensions": {
+    "mcp": {
+      "instructions": "この MCP サーバーは Azure Functions 上で動作し、hello_world / get_current_time / get_weather / search_courses_by_(name|description|company) の各ツールを提供します。HTTP 経由で /api/mcp/ 以下のエンドポイント、または対応クライアントからツール呼び出しを行ってください。",
+      "serverName": "CourseSurveyMcpServer",
+      "serverVersion": "2.0.0",
+      "messageOptions": {
+        "useAbsoluteUriForEndpoint": false
+      }
+    }
+  },
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle.Preview",
+    "version": "[4.*, 5.0.0)"
+  }
+}

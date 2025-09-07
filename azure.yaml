@@ -1,0 +1,31 @@
+# Azure Developer CLI configuration
+# 参考: https://learn.microsoft.com/azure/developer/azure-developer-cli/azure-yaml
+
+name: azure-functions-mcp-managed-id
+metadata:
+  template: local
+
+infrastructure:
+  provider: bicep
+  path: infra/main.bicep
+
+services:
+  api:
+    project: .
+    language: python
+    host: function
+    # (任意) ビルド/デプロイ前後フックを将来追加可能
+    # hooks:
+    #   prepackage:
+    #     - echo "(Optional) run tests here"
+
+# 出力: infra/main.bicep で定義した以下が azd の環境変数として利用可能
+#   functionAppName -> AZURE_FUNCTIONAPPNAME
+#   cosmosEndpoint -> AZURE_COSMOSENDPOINT
+#   cosmosPrimaryKey (secure) -> AZURE_COSMOSPRIMARYKEY
+#   cosmosDatabaseName -> AZURE_COSMOSDATABASENAME
+#   cosmosContainerNames -> AZURE_COSMOSCONTAINERNAMES
+#   functionAppPrincipalId -> AZURE_FUNCTIONAPPPRINCIPALID
+# 実際の環境変数名は azd version によりプレフィクス等が付与される場合があります。
+
+# 追加で Key Vault 等を導入する場合は services.<name>.hooks や別モジュールを拡張してください。
